@@ -1,0 +1,20 @@
+
+---
+- Routing is the process of matching the pattern of URL to a specific controller and its action.
+- Routing = URL + HTTP Request
+- Types of Routing - 
+	- Convention-based routing
+		- The routing is done on the basis of configuration done in routing middleware.
+		- Predefined URL patterns are used to determine the controller and action method to execute.
+		- `app.UseRouting();` to enable routing in app
+		- `app.MapControllerRoute(...config);
+		- `app.MapGet("/", action);` for GET request on that route.
+		- `app.Map("/", action);` for all HTTP request on that route.
+		- `app.UseEndpoints(endpoint => (endpoint) => {});` for making new
+	- Attribute-based routing
+		- Routes are defined using attributes on Controllers and action methods.
+		- `[Route("products/details/{id}")]` on a action method will map this URL to that method.
+		- `[Route("[controller]")]` will use the name of controller or action for that route
+		- `[Route("~/")]` for all the routes from domain
+- Combination of conventional and attributes based routing is possible in an asp.net app.
+---

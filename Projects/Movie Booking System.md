@@ -1,0 +1,73 @@
+
+---
+- Tech Stack -
+	- Frontend - ReactJS
+	- Backend - Asp.Net Core Web API
+- 
+---
+- Todo - 
+	- Backend -
+		- 06-04-2024
+		- [x] Integrate theater APIs to frontend 
+		- [x] Integrate hall APIs to frontend
+		- [x] Add the logic to add halls to theater 
+		- 07-04-2024
+		- [x] Integrate show time api to frontend
+		- [ ] Integrate Booking api to frontend
+		- [x] Update Halls Update and Create API to create rows and seats
+
+		- 08-04-2024
+		- [x] Create a API to get the shows for a movie
+			- [x] Return Show Times 
+			- [x] Return Theaters
+		- [x] Booking page
+			- [x] Filter of date
+			- [x] List of theaters
+				- [x] List of show time on the selected date
+		- 09-04-2024
+		- [x] Seat selection page
+			- [x] API to get the data of the hall with row, seats and all the booked ones
+			- [x] Seats in grid View
+				- [x] All Seats Row and Column Number
+				- [x] Screen Side
+		- 15-07-2024
+			- [x] Admin App
+				- [x] Movies 
+					- [x] C
+					- [x] R
+					- [x] U
+					- [x] D
+				- [x] Show Time
+					- [ ] C
+					- [ ] R
+					- [ ] U
+					- [ ] D
+				- [x] Theater
+					- [x] C
+					- [x] R
+					- [x] U
+					- [x] D
+					- [x] Hall
+						- [x] C
+						- [x] R
+						- [x] U
+						- [x] D
+				- [x] Bookings
+					- [x] C
+					- [x] R
+					- [x] U
+					- [x] D
+				- [x] Row Type
+					- [ ] C
+					- [ ] R
+					- [ ] U
+					- [ ] D
+				- [x] Payments
+					- [x] C
+					- [x] R
+					- [ ] U
+					- [ ] D
+- 19/07/2024
+	- [x] Add Refresh Token feature
+	- [x] Learn Repository pattern
+---

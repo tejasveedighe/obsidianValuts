@@ -1,0 +1,29 @@
+
+---
+- 05-08-2024 -> Monday
+	- 1:30pm - 03:19pm
+		- Redux  Deepdive
+		- Break - 2:20 - 2:49pm
+	- 3:19pm -
+		- React with Typescript
+		- Break - 3:40pm - 04:08pm 
+	- 6:40pm - break - 
+- 06-08-2024 -> Tuesday
+	- [x] React Context
+	- [x] React Suspense Project - 03:44pm - 04:20pm
+	- [ ] [[Angular]] Tutorial.
+- 07-08-2024 -> Wednesday
+	- Angular Tutorial - 12am
+- 08-08-2024 -> Thursday
+	- Angular Tutorial
+	- SOAP vs Web API vs REST API
+- 12-08-2024 -> Monday
+	- GraphQL in ASP.NET Core
+- 20-08-2024 -> Tuesday
+	- [x] Complete Seat Selection Page of Angular Project
+	- [x] Complete Modal for ticket booking of Angular Project
+	- [x] Try CSS Battles
+	- [ ] Learn DB Normalization
+	- [ ] Practice SQL
+	- [ ] Cache in ReactJS
+---
