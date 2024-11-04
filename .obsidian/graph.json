@@ -1,79 +1,22 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
-  "showAttachments": true,
+  "showTags": false,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"ASP.NET Core MVC\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "path:Daily  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "path:Projects  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "path:CSharp  ",
-      "color": {
-        "a": 1,
-        "rgb": 805855
-      }
-    },
-    {
-      "query": "path:Angular  ",
-      "color": {
-        "a": 1,
-        "rgb": 15073448
-      }
-    },
-    {
-      "query": "path:React  ",
-      "color": {
-        "a": 1,
-        "rgb": 37375
-      }
-    },
-    {
-      "query": "path:Blazor  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path: \"Design Patterns/Dependency Injection\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    }
-  ],
-  "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.7078125,
-  "lineSizeMultiplier": 1.65677083333333,
-  "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 18.125,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.45050811767578436,
-  "close": false
+  "linkDistance": 250,
+  "scale": 0.2588386562181628,
+  "close": true
 }
