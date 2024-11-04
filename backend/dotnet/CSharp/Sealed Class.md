@@ -1,0 +1,12 @@
+
+---
+- Sealed class is a class from which we cannot derived a new class.
+- It is created using the keyword `sealed`.
+- It cannot be inherited and also cannot be extended.
+- Sealed class cannot have a abstract method. (as it cannot be inherited or extended, abstract method is of no use).
+- `sealed` class must be the bottom most class in the inheritance hierarchy.
+- The `sealed` keyword can be used for classes, instance methods and properties.
+- Sealed Methods -
+	- All methods are by default sealed and hence they cannot be inherited and overridden in the child class. Using `virtual` makes then inheritable and overridable.
+	- Sealed methods cannot be overridden in the child class.
+---

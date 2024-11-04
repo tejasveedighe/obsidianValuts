@@ -1,0 +1,7 @@
+- Contains the paths for saving -
+	- PO Files
+	- WO Item images
+	- Product Manuals
+	- Commercial Slips
+	- Packing Slip
+	- User Profile

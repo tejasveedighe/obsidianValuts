@@ -1,0 +1,2 @@
+- The Auto mode allows us to mix both the Interactive Server and the Interactive Web Assembly mode.
+- It combines the mode

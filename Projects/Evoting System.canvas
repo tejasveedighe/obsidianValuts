@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"e04bbfa1bb8c534d","x":-480,"y":-285,"width":1320,"height":925,"type":"group","label":"Entities"},
+		{"id":"d4ed6e5810b15531","x":-860,"y":-280,"width":280,"height":210,"type":"group","label":"Roles"},
+		{"id":"929fae5a11920587","x":-160,"y":-440,"width":250,"height":60,"type":"text","text":"E-Voting System"},
+		{"id":"cae64889d2d19d37","x":-840,"y":-160,"width":250,"height":60,"type":"text","text":"Voter"},
+		{"id":"43bd0c29a929435c","x":-840,"y":-260,"width":250,"height":60,"type":"text","text":"Admin"},
+		{"id":"0f5a73989527fcb3","x":-410,"y":-260,"width":250,"height":385,"type":"text","text":"Voter\n- Name\n- Email\n- Password"},
+		{"id":"a883317aac59e55c","x":-80,"y":-265,"width":260,"height":385,"type":"text","text":"Pole\n- Date Created\n- Ending Date\n- List Of Votes\n- Voters\n- Question\n- Options\n- HasEnded"},
+		{"id":"590a41f57b7465ba","x":560,"y":-260,"width":250,"height":385,"type":"text","text":"Vote\n- Voter ID\n- Option ID\n- Pole ID"},
+		{"id":"3d39bef96db865e0","x":560,"y":200,"width":250,"height":385,"type":"text","text":"Options\n- Pole ID\n- Text"}
+	],
+	"edges":[
+		{"id":"471fadd9594db97b","fromNode":"a883317aac59e55c","fromSide":"right","toNode":"590a41f57b7465ba","toSide":"left"},
+		{"id":"8787e2b276befd43","fromNode":"cae64889d2d19d37","fromSide":"right","toNode":"0f5a73989527fcb3","toSide":"left"},
+		{"id":"972ae261c6dad68c","fromNode":"a883317aac59e55c","fromSide":"right","toNode":"3d39bef96db865e0","toSide":"left"},
+		{"id":"ce0f8077d2aabe27","fromNode":"a883317aac59e55c","fromSide":"left","toNode":"0f5a73989527fcb3","toSide":"right"}
+	]
+}
