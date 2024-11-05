@@ -5,6 +5,7 @@
     "children": [
       {
         "id": "c9507c315482752d",
+        "id": "a78b295103c35ea3",
         "type": "tabs",
         "children": [
           {
@@ -19,18 +20,64 @@
           },
           {
             "id": "e235a0e924c99ecb",
+            "id": "f22e593c489839b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "databases/mongodb/MongoDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MongoDB"
+            }
+          },
+          {
+            "id": "7095ba1cd4e0c562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "databases/mongodb/Mongoose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mongoose"
+            }
+          },
+          {
+            "id": "404303dacc690a3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "databases/mongodb/Schema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Schema"
+            }
+          },
+          {
+            "id": "d69b00813c72ce4e",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.7.5"
+                "file": "databases/mongodb/Schema.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "Schema"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oops",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/dotnet/CSharp/Task.md",
+                "file": "databases/mongodb/Schema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Task"
+              "title": "Backlinks for Schema"
             }
           },
           {
@@ -121,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/dotnet/CSharp/Task.md",
+                "file": "databases/mongodb/Schema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Task"
+              "title": "Outgoing links from Schema"
             }
           },
           {
@@ -148,13 +195,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/dotnet/CSharp/Task.md"
+                "file": "databases/mongodb/Schema.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Task"
+              "title": "Outline of Schema"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,46 +221,46 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "e235a0e924c99ecb",
+  "active": "404303dacc690a3a",
   "lastOpenFiles": [
-    "frontend/React/React Roadmap.md",
-    "frontend/React/SSR/Server Side Rendering.md",
-    "backend/Web API/Soap vs REST vs Web API.md",
-    "`OnAfterRender & OnAfterRenderAsync`.md",
-    "backend/dotnet/ASP.NET Core/Blazor/Blazor.md",
-    "backend/dotnet/ASP.NET Core/Blazor/Components/Lifecycles/Component Lifecycle.md",
-    "Errors & Bugs/Untitled.md",
-    "backend/dotnet/ASP.NET Core/Blazor/Components/Lifecycles/`ShouldRender`.md",
-    "backend/dotnet/ASP.NET Core/Blazor/Components/Components.md",
-    "backend/dotnet/EF-Core/Query.md",
-    "backend/Asynchronous Programming/Asynchronous Programming.md",
-    "backend/dotnet/Asynchronous Programming/Async & Await in dotnet.md",
-    "backend/dotnet/ASP.NET Core/Services/Keyed Services.md",
-    "backend/dotnet/performant code/Memory Performance.md",
-    "backend/dotnet/performant code",
-    "backend/dotnet/EF-Core/DBContext.md",
-    "backend/dotnet/CSharp/C-Sharp.md",
-    "backend/dotnet/EF-Core",
-    "backend/dotnet/CSharp/Task.md",
-    "backend/dotnet/CSharp/oops",
+    "databases/mongodb/Model.md",
+    "databases/mongodb/Mongoose.md",
+    "databases/mongodb/MongoDB.md",
+    "databases/mongodb/Schema.md",
+    "databases/mongodb",
+    "databases",
     "backend/dotnet/CSharp/OOPS.md",
-    "Tasks.md",
-    "backend/dotnet/CSharp/threads/Background Thread.md",
-    "backend/dotnet/CSharp/threads/Threads.md",
-    "backend/dotnet/CSharp/Daily Punchin.md",
-    "backend/dotnet/CSharp/threads",
-    "backend/dotnet/Asynchronous Programming",
-    "backend/Asynchronous Programming",
-    "backend",
-    "backend/Web API/HTTP.md",
+    "backend/dotnet/CSharp/Classes and Objects.md",
+    "backend/dotnet/CSharp/Sealed Class.md",
+    "frontend/React/SSR/Server Side Rendering.md",
+    "frontend/React/Virtual DOM.md",
+    "frontend/React/Virtual DOM, React Fibre, Reconcilation.md",
+    "frontend/React/SSR",
+    "frontend/React/Rendering In react.md",
+    "frontend/React/React Roadmap.md",
+    "frontend/React/React Context.md",
+    "frontend/React/Hooks.md",
+    "frontend/Angular/Standalone.md",
+    "frontend/Angular/Services.md",
+    "frontend/Angular/Router.md",
+    "frontend/Angular/Forms.md",
+    "frontend/Angular/Component Decorator.md",
+    "frontend/Angular/Angular Index.md",
+    "frontend/React",
+    "frontend/Angular",
     "frontend",
-    "backend/dotnet",
-    "Projects/TCS Management/TCS Management Index.md",
-    "Projects/TCS Management/Used Services.md",
-    "Projects/TCS Management/Path Service.md",
-    "Untitled 1.loom",
-    "Untitled.canvas",
+    "backend/dotnet/ASP.NET Core/Blazor/Rendering/Render Modes/Web Assembly.md",
+    "backend/dotnet/ASP.NET Core/Blazor/Rendering/Render Modes/SSR.md",
+    "backend/dotnet/ASP.NET Core/Blazor/Rendering/Render Modes/Interactive Server.md",
+    "backend/dotnet/ASP.NET Core/Blazor/Rendering/Render Modes/Auto.md",
+    "backend/dotnet/ASP.NET Core/Blazor/Components/Lifecycles/`ShouldRender`.md",
+    "backend/dotnet/ASP.NET Core/Blazor/Components/Lifecycles/`SetParametersAsync`.md",
+    "backend/dotnet/ASP.NET Core/Blazor/Rendering/Render Modes",
+    "backend/dotnet/ASP.NET Core/Blazor/Components/Lifecycles",
+    "backend/dotnet/ASP.NET Core/Services/Lifetime",
+    "backend/dotnet/ASP.NET Core/Blazor/Using JS",
     "Projects/Evoting System.canvas",
-    "Untitled 1.canvas"
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
