@@ -67,7 +67,7 @@
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.7.5"
+                "currentVersion": "1.7.5",
                 "file": "databases/mongodb/Schema.md",
                 "mode": "source",
                 "source": false
