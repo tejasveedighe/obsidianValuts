@@ -4,24 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "e7dd4908670a451d",
+        "id": "c9507c315482752d",
         "type": "tabs",
         "children": [
           {
-            "id": "6cac1744d484081e",
+            "id": "c1de6b9864414d63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e235a0e924c99ecb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "backend/dotnet/performant code/Memory Performance.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.7.5"
               },
               "icon": "lucide-file",
-              "title": "Memory Performance"
+              "title": "Release Notes 1.7.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,25 +173,35 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "6cac1744d484081e",
+  "active": "e235a0e924c99ecb",
   "lastOpenFiles": [
+    "frontend/React/React Roadmap.md",
+    "frontend/React/SSR/Server Side Rendering.md",
+    "backend/Web API/Soap vs REST vs Web API.md",
+    "`OnAfterRender & OnAfterRenderAsync`.md",
+    "backend/dotnet/ASP.NET Core/Blazor/Blazor.md",
+    "backend/dotnet/ASP.NET Core/Blazor/Components/Lifecycles/Component Lifecycle.md",
+    "Errors & Bugs/Untitled.md",
+    "backend/dotnet/ASP.NET Core/Blazor/Components/Lifecycles/`ShouldRender`.md",
+    "backend/dotnet/ASP.NET Core/Blazor/Components/Components.md",
+    "backend/dotnet/EF-Core/Query.md",
+    "backend/Asynchronous Programming/Asynchronous Programming.md",
+    "backend/dotnet/Asynchronous Programming/Async & Await in dotnet.md",
+    "backend/dotnet/ASP.NET Core/Services/Keyed Services.md",
     "backend/dotnet/performant code/Memory Performance.md",
     "backend/dotnet/performant code",
     "backend/dotnet/EF-Core/DBContext.md",
-    "Query.md",
     "backend/dotnet/CSharp/C-Sharp.md",
     "backend/dotnet/EF-Core",
     "backend/dotnet/CSharp/Task.md",
     "backend/dotnet/CSharp/oops",
     "backend/dotnet/CSharp/OOPS.md",
-    "backend/Asynchronous Programming/Asynchronous Programming.md",
-    "Asynchronous Programming/Async & Await in dotnet.md",
     "Tasks.md",
     "backend/dotnet/CSharp/threads/Background Thread.md",
     "backend/dotnet/CSharp/threads/Threads.md",
     "backend/dotnet/CSharp/Daily Punchin.md",
     "backend/dotnet/CSharp/threads",
-    "Asynchronous Programming",
+    "backend/dotnet/Asynchronous Programming",
     "backend/Asynchronous Programming",
     "backend",
     "backend/Web API/HTTP.md",
@@ -191,17 +210,7 @@
     "Projects/TCS Management/TCS Management Index.md",
     "Projects/TCS Management/Used Services.md",
     "Projects/TCS Management/Path Service.md",
-    "Projects/TCS Management/Connection String Files.md",
-    "backend/dotnet/CSharp/File Handling.md",
     "Untitled 1.loom",
-    "Daily/10-10-2024.md",
-    "Daily/09-10-2024.md",
-    "backend/dotnet/ASP.NET Core/Services/Services Registration in ASP.NET Core.md",
-    "backend/Design Patterns/Dependency Injection/DI Container.md",
-    "backend/dotnet/ASP.NET Core/Blazor/Service Lifetime.md",
-    "backend/dotnet/ASP.NET Core/Blazor/Dependency Injection in Blazor.md",
-    "backend/dotnet/ASP.NET Core/Services/Lifetime/Services Lifetime.md",
-    "backend/dotnet/ASP.NET Core/ASP.NET Core.md",
     "Untitled.canvas",
     "Projects/Evoting System.canvas",
     "Untitled 1.canvas"

@@ -14,4 +14,5 @@ tags:
 - [[Component Lifecycle]]
 - [[Dependency Injection in Blazor]]
 - [[JS Interop| JS Interop]]
+- [[Fluxor]]
 ---

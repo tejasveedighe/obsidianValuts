@@ -12,4 +12,5 @@ tags:
 2. [[Hooks]]
 3. [[Virtual DOM, React Fibre, Reconcilation]]
 4. [[React Context]]
+5. [[Server Side Rendering]]
 ---
