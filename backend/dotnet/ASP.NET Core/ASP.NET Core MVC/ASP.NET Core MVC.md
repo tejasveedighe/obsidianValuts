@@ -64,7 +64,7 @@ app.UseEndpoints(endpoints => {
 	endpoints.MapDefaultControllerRoute(); // used to tell the app to map the controllers view to the routes.
 }); // executes the matched endpoint
 ```
-### [[Controllers]]
+### [[backend/dotnet/ASP.NET Core/ASP.NET Core MVC/Controllers]]
 ### [[Action Methods]]
 ### [[Middleware]]
 ### [[Passing Data from Controller to View]]

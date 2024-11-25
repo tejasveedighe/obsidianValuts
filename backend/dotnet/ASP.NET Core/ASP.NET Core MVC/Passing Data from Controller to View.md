@@ -1,6 +1,6 @@
 
 ---
-- To pass data between the [[Controllers]] and its views the following are used in the [[Controllers]] as well as [[Action Methods]].
+- To pass data between the [[backend/dotnet/ASP.NET Core/ASP.NET Core MVC/Controllers]] and its views the following are used in the [[backend/dotnet/ASP.NET Core/ASP.NET Core MVC/Controllers]] as well as [[Action Methods]].
 ### ViewData
 - ViewData is a MVC dictionary object that allows to pass the data between the controller action method to view.
 - It is a property of Controller class. It implements IDictionary<string, object>

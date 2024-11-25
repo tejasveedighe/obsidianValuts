@@ -1,6 +1,6 @@
 
 ---
-- [[Controllers]] can have multiple actions.
+- [[backend/dotnet/ASP.NET Core/ASP.NET Core MVC/Controllers]] can have multiple actions.
 - Controller Actions - 
 	1. Action Methods - Methods that respond to HTTP requests. The method name becomes the action name.
 	2. Routing - Routing maps request to appropriate action.

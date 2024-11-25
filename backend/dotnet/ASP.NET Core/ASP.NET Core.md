@@ -58,7 +58,7 @@
 		b. Attribute Routing -  
 			- This type of routing is implemented through attributes and applied directly to a specific controller or action method.
 			- The convention routing methodoloy is implemented inside startup.cs file.
-3. Controller Initalization
+3. [[backend/dotnet/Api Controllers/Controllers|Controllers]] Initalization
 	- The process of initialization and execution of controllers take place.
 	- Controllers are responsible for handling the incoming requests.
 	- The controller selects the appropriate action methods on the basis of route templates provided.
