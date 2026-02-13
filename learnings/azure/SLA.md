@@ -1,0 +1,12 @@
+
+---
+- Service Level Agreement
+- What is the percent of time that the service will be up.
+- Using different services to create a system, will have a different SLA for the system. To calculate the SLA of the system -
+	- Multiply the SLA of each service in the system 
+	- Ex - 
+		- Azure SQL SLA - 99.99 %
+		- App Service SLA - 99.95 %
+		- System SLA - 99.99 * 99.95 = 99.94%
+- https://uptime.is - for finding the SLA.
+---

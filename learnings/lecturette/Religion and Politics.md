@@ -1,0 +1,15 @@
+
+---
+- What is the topic?
+	- In India there are two major factors that drive the nation.
+	- India was created with the political religion in 1947 when the state of Pakistan was created for the Muslims while India remained open for all.
+	- Ever since the partition India has till date faced many communal violence and political parties use this communal aggression for their own gains.
+	- The communal tension began in India during the 1909 India Council Act under British Govt where the vote banks was separated for Hindu and Muslim participants. That caused a lot of problems and lead to religion based politics.
+	- The constitution of India remains secular treating all religions as equal. The use of communal hatred has been a primary factor for winning elections. The parties that show support to a certain community gains the support from the community, that incentivizes the mindset of religion based discrimination and profits the parties while the communities clash and get violent.
+- What is the current scenario?
+	- Under the constitution all religions are treated as equal and each citizen has the right to practice a religion of their choice.
+	- Parties like BJP and Congress are the prominent political parties in India and are both associated with such politics that involve spreading hate against each other for vote bank.
+	- The current trend of rise of Hindutva ideology which recognizes India as a state only for Hindus. RSS and BJP are the supporters of this ideology.
+	- As the communal tensions are rising the pattern for these tensions have started to be recognized by people, people now can see what the words are meant and how the political figures use them to fuel more hatred. A new era where the people understand these hate speech and will not succumb to these politicians will arise.
+	- The supreme court has also mentioned that the more the communal politics is played the difficult it will be to maintain a united state.
+-  

@@ -1,0 +1,29 @@
+
+---
+- Introduction - 
+	- AFSPA - Armed Forces (Special Powers) Act 1958.
+	- History of AFSPA - 
+		- During 1958, in the north-eastern states of India became very difficult to maintain peace.
+		- Violence was so high that the state government failed to mitigate violence in states.
+		- To counter the violence the President of India create a Armed Forces Special Powers Ordinance in May of 1958.
+		- The ordinance gave some special powers to the Armed forces in [[Assam]] and [[Manipur]].
+		- Later the Ordinance was replaced by Armed forces special powers bill.
+	- The Act enables certain special powers to parts of armed forces in special areas of north-eastern states, the [[7 Sisters]].
+	- The area must be declared as Disturbed Area according to Section 3 of Act. Done by the Governor of the state.
+	- The special powers that armed forces get - 
+		- Any rank personnel of the armed forces has the following special powers - 
+			- fire upon or use force even if causing death on a person that is acting against the law.
+			- arrest without warrant.
+			- destroy, fortify a place for training for use by the armed forces.
+			- enter and search without warrant
+			- No persecution for the person until made by the central government.
+- Problems - 
+	- The Armed forces get a free hand making the powers very dangerous if for a wrong decision is made, a persons life will be destroyed.
+	- The armed forces are critized in recent times to breach human rights violation.
+	- Impact of civilians, the livelihood of a civilian becomes difficult as by the vandalism of criminals and from the scrutiny of the armed forces.
+- The changes that will make AFSPA more safer - 
+	- Judicial review - 
+		- if court permission are required for making arrests and search, it will be more transparent.
+		- A special court can be made for granting and revoking such warrants to expedite the speed of warrant seeking.
+	-
+---

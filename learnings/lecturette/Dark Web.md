@@ -1,0 +1,36 @@
+
+---
+- What is the dark Web?
+	- Dark web is a category of the internet network that cannot be accessed easily and are not available to access from commonly used browsers. 
+	- Browsers like TOR, Onion Router and Freenet are used to access the dark web.
+	- The internet sites are divided into different categories -
+		- Surface Web - These are sites that are easily accessible and are created for public access. Like news and multi-media.
+		- Deep Web - This is the content that is behind the paywall sites and are accessed by some specific people with credentials. Like databases and CRM.
+		- Dark Web - These are sites and apps that are accessible only by using Tor or freenet tools. These are sites that use the .onion address.
+- What is the current status of Dark web?
+	- The dark web has some benefits - 
+		- Privacy - Tracking on the dark net is very difficult making it more secure.
+			- Journalists use dark web for doing research and communication without monitoring.
+		- Security - TOR, Freenet and other onion router apps offer security as they bounce the request via multiple servers making it very hard to track the origin.
+		- Volatility - The sites on dark web change their domain multiple times to increase the difficulty to access.
+	- Problems of dark web - 
+		- Since tracking and monitoring is difficult many illicit activities are done on dark web.
+			- Human tracfiking
+			- Child Pornography
+			- Data selling - IN 2023 it was reported that a large populations documents like aadhar card very out for selling for 4300$.
+			- Paper leaks - The UG-NEET papers were leaked on dark web.
+- What can be done to change the current status?
+	- For addressing each problem the govt has created organizations that are actively mitigating the damage done by dark web.
+	- IPC, POCSO, Narcotics and various acts should be stringent for dark web offenses. Making clear laws against dark web offenders will target the offenders making it more easier to punish them.
+	- The govt should enforce KYC and Anti-Money laundering policies to make it harder for dark web offenders to scam people.
+	- Training people to protect themselves against dark web and phishing sites. 25% of dark web users are from India, yet people are not aware of the dark web.
+	- Implementing cyber cleanliness, to keep people aware that they should not post their information without verifying the sites will reduce the data leaks.
+- What are the challenges for bringing changes?
+	- Paradox of monitoring 
+		- Dark web is used for illicit and also for communication in problematic areas. To define a law or policy will be difficult as to define what is wrong and right is very subjective.
+	- Dark web if monitored will lose its title of dark web as it is still a section that has the least traffic, govt interferences will make dark web users move to some other way.
+- Conclusion - 
+	- Dark web is both a boon and also a curse when used for illicit. 
+	- Awareness of dark web is a concern as not many know about it but are victims of it.
+	- Usage of dark web defines it as a problem or solution based on the situation.
+---

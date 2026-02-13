@@ -1,0 +1,11 @@
+
+---
+- Session state is used when the application is using the browser.
+- ASP.Net Core Maintains session state by providing a cookie a request that contains a session ID.
+- The browser deletes the session when the session ends.
+- To configure the session in the core application - 
+	- `builder.services.AddSession();
+	- `app.UseSession();
+- To access the session - 
+	- 
+---

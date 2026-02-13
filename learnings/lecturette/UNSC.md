@@ -1,0 +1,35 @@
+
+---
+- Introduction -
+	- The UNSC - United Nations Security Council
+	- It is one the 6 principal bodies of [[United Nations]]
+	- It is responsible for -
+		- Maintaining Global peace and security
+		- Recommending new members for the [[UNGA]]
+		- Approving any changes to the [[UN charter]].
+	- Its power are described in the [[UN charter]]
+		- Including peacekeeping
+		- International Sanctions
+		- Military action
+	- It was created after [[World War 2]] after the [[League of Nations]] failed to maintain global peace.
+		- Its first meeting was help in 1946
+	- UN consists of 15 members out of which 5 are permanent
+		- Permanent Members -
+			- [[USA]]
+			- [[China]]
+			- [[UK]]
+			- [[France]]
+			- [[Russia]]
+		- The permanent members are the powers that won the [[World War 2]]
+	- Permanent members of can [[veto power]] any resolution, or block the admission of any new members to [[UN]].
+	- The council has a [[Secretary General]], which is the chief officer of the security council.
+	- The council has passed upto 3000 resolutions for maintaining peace.
+- Present - 
+	- The UNSC had a informal conference to handle the [[USA]]-[[China]] trade problems, where the council condemned [[USA]] for using imposing tariffs and prioritizing national interests over global cooperation.
+- India's presence - 
+	- [[India]] has been one of the founding members of the council has server almost 8 terms as non-permanent member.
+	- India has advocated for bringing reforms to the council for representation of the reality.
+	- India has deployed almost 2 lakh troops for the [[UN Peacekeeping missions]] with almost 43 missions.
+	- In 2022 Ambassador Ruchira Kamboj became the first Indian women to preside over the council.
+	- India has been advocating to the council to adapt to the 21st century challenges, as the council was made during the [[World War 2]], there are many changes in reality making the council outdated to the present scenarios.
+---

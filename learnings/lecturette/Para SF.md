@@ -1,0 +1,34 @@
+
+---
+- Introduction -
+	- Unit was created after in 1966 after the [[1965 Indo-Pakistani War]].
+	- A special unit called the Meghdoot Force, participated in that war. This unit was the first unit that was termed as special forces and can be said as the founding unit of the Para Special Forces.
+	- The unit in 1969 grew to two units [[9 Para SF]] and [[10 Para SF]]
+	- The Para SF first participated in the [[1971 Indo-Pakistani War]], in which they took the raids against [[Pakistan]] army.
+-  History - 
+	- [[6 Para SF]] took over the [[Operation Cactus]] under the order of [[Rajiv Gandhi]] 
+		- [[Operation Cactus|OP Cactus]] was the operation to fail the plans to coup against the [[Maldives]] Government.
+	- In 1980s the Para SF was deployed in [[Sri Lanka]] to conduct air-borne raids and rescue operations.
+	- In 1990s the Para SF was deployed for counter-terrorism operations in [[Kashmir]] against insurgents.
+	- In 1999 the Para SF undertook the missions to fight against the [[Pakistan]] Army during the [[Kargil War]].
+	- In 2002, [[2 Para SF]] undertook [[Operation Khukri]] to rescue Indian Peacekeeping force that consisted of 5\8 [[Gorkha Rifles]].
+		- The 223 soldiers were surrounded by militants of the [[Revolutionary United Front of Sierra Leone]].
+	- In 2012, the Para SF conducted counter-terrorism operations in [[Myanmar]].
+	- The 2016 [[Surgical Strikes]] were also done by the Para SF.
+	- In 2022-23 the [[21 Para SF]] killed many Meitei And Kuki groups terrorists along the [[Indo-Myanmar]] border, while avenging the killing of CO of [[Assam Rifles]].
+- Para SF Battalions - 
+	- [[1 Para ]]- Pratham
+	- [[2 Para ]]- Predators
+	- [[3 Para ]]- Russell's Vipers
+	- [[4 Para ]]- Daggers
+	- [[5 Para ]]- [[Batalik]]
+	- [[6 Para ]]- Sakht Para
+	- [[7 Para ]]- SE7EN
+	- [[9 Para ]]- Mountain Rats/Pirates
+	- [[10 Para]] - Desert Scorpions
+	- [[11 Para]] - Helleven
+	- [[12 Para]] - Dirty Dozens
+	- [[13 Para]] - Thunderbolts
+	- [[21 Para]] - Waghnakhs
+	- [[23 Para]] - Devil's Own
+	- [[29 Para]] - Warriors N Monks

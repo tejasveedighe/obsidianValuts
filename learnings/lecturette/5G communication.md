@@ -1,0 +1,26 @@
+
+---
+- Introduction - 
+	- The 5G band is the 5th generation of cellular network.
+	- It is the successor of 4G, and has been developed by 3rd Generation Partnership Project 3GP.
+	- It has been deployed in 2019, and offers fast download speed and also low latency in connections.
+	- It has speed of up to 10 Gigabits per second.
+	- The band
+	- width of 5G is more than 4G that allows for more devices to be connected at the same time.
+	- 5G is also more consistent in data transfer, making it dependable to relay information.
+- Applications of 5G:
+	- Enhanced streaming -
+		- Video streaming of 4k/8k is supported by 5G, making streaming smooth.
+		- AR and VR can be used with 5G network for a smooth experience.
+		- Rapid downloading, large crowd can download the same resource with 5G, as large devices can be connected over the network with ease.
+	- Iot Expansion -
+		- Smart cities, connected homes, automation in industries are much more reliable with 5G. Low latency will ensure the device communicate on time.
+		- Sensors can be networked together.
+	- Self-driving cars -
+		- Vehicle to everything communication is a new technology, which allows the vehicles to interoperate with other machines, making self-driving cars a better and safer experience.
+	- Healthcare - 
+		- Remote surgeries can be performed with higher precision.
+- Military applications - 
+	- Military communication can be improved with 5G networks as 5G networks can easily operate large number of devices interconnected, making broadcasting easier.
+	- 5G is more consistent in data transfer, so communication will be precise, making it reliable to send crucial information.
+---

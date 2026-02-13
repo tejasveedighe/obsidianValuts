@@ -1,0 +1,22 @@
+
+---
+- Introduction -
+	- NATO stands for North Atlantic Treaty Organization.
+	- Established in 1949 after the second world war.
+	- Goal - Collective defense.
+		- The article 5 of Nation states that attack on one nation mean attack on all the member nations.
+		- This article has been invoked once during the attacks on 9/11 in USA.
+	- NATO began with 12 member including US, UK, France, and has expanded to 32 members, from countries from America and Europe.
+	- NATO was created to improve peace and deterring aggression, after the Cold War.
+	- NATO improve the strategic relations between nations sharing intel, military experience, and  political coordination.
+		- NATO conducts military exercises to improve the working between different militaries and also to keep the military mission ready.
+		- Peace keeping and rescue mission are carried on by NATO.
+- Present -
+	- NATO faces the challenges with Cyber warfare, terrorism, hybrid warfare and strategic assertiveness of countries like Russia and China.
+	- The ongoing Russia Ukraine war has made the importance of NATO clear and has lead to increase in defense expenditure.
+	- For India point, India has stayed away from any alignment for its Non-Alignment Movement. However engages diplomatically and politically.
+- Conclusion - 
+	- NATO is a important alliance for Europe and American nations, as it ensures unity of the nations and also to help nations fight against a common enemy foreseeing no aggressor wins.
+	- For India NATO could be helpful with Indo-NATO dialogues where India can keep its ties to NATO without breaking the Non-Aligned Movement and simultaneously working diplomatically and strategically to improve.
+	- 
+--- 

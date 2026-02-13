@@ -1,0 +1,29 @@
+
+---
+- Introduction - 
+	- The Sindhu Jal Sandhi is the water treaty between [[India]] and [[Pakistan]]
+	- The treaty was arranged and negotiated by [[World Bank]]
+	- Signed in 10 September 1960, in Pakistan
+		- By PM Jawahar Lal Nehru - Pakistan President FM Ayub Khan.
+	- The treaty sets up mechanisms to share the water from the river Indus and its five tributaries - 
+		- Sutlej, Ravi, Beas, Jhelum, Chenab
+	- The treaty allows three western rivers to Pakistan for un-restricted usage, and three eastern rivers to India for un-restricted usage.
+		- That accounts to 80% use for Pakistan and 20% for India.
+	- Under the Indus Water Treaty both the countries set up a [[Permanent Indus Commission]]
+		- Under this commission both the countries setup a mandatory annual meet for maintaining the treaty.
+- Disputes Handling - 
+	- The disputes are handled during the [[Permanent Indus Commission|PIC]].
+	- Then the disputes are handled by [[World Bank]] [[Neutral Expert]] -
+		- If [[Permanent Indus Commission|PIC]] fails to sort the dispute the [[Neutral Expert]] handles the situation.
+	- If the dispute is outside of the scoped of [[Neutral Expert]], then the [[World Bank]] invokes a [[Court of Arbritration]]
+- The Source of Indus River - 
+	- The river origins from [[Tibet]] from [[Mansarovar]] lake in [[Himalayas]]
+- Problems with IWT -
+	- Outdate provisions -
+		- The treaty does not handle the challenges of the modern world, the treaty does not handle the climate changes that cause the hydrological pattern changes in the river.
+		- Climate changes causes the water to evaporate, ice glacier melts and erratic rainfall, making usage of river difficult.
+	- Lack of flexibility - 
+		- The water usage rules are rigid and does not allow any country to alter the usage for itself, according to the circumstances.
+	- Geopolitical Tensions - 
+		- The hostility between [[Pakistan]] and [[India]] hinder the effectiveness of the treaty.
+---

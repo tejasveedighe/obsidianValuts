@@ -1,0 +1,23 @@
+
+---
+- Introduction - 
+	- Brahmos is a supersonic cruise missile develop through a joint venture between [[India]] and [[Russia]]
+	- Its name is derived from [[Brahmaputra River]] and Moskva river of Russia.
+	- It is considered as the fastest missile in the world, capable of traveling Mach 2.8 to 3 - Three times the speed of sound.
+- Key features - 
+	- Supersonic speed 
+	- Multi-platform deployment -
+		- Can be launched from land, sea and air. Also in submarines.
+	- Precision strike capabilities - 
+		- Equipped with advanced guiding system making it exceptionally accurate.
+	- Long-range and destructive power - 
+		- Range - 450Km 
+		- Can carry nuclear warheads.
+	- Stealth Technology -
+		- Designed to reduce radar detection
+- Importance - 
+	- Improve defense and offensive capabilities 
+	- Improves quick-strike capability as it can be launched from land, water and air.
+	- Nuclear warheads and be launched, making superiority in striking and devastation power.
+- 
+---

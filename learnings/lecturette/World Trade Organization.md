@@ -1,0 +1,47 @@
+
+---
+- Introduction - 
+	- World Trade Organization is responsible for ensuring fair trade between its member nations. And have international trade with cooperation of [[United Nations]]
+	- There are 166 nations and the headquarter is in Geneva, [[Switzerland]]
+	- The Director-General Ngozi Okonjo-Iweals
+	- It started in 1994, it has a Ministerial Conference, which is composed of all the members and it held in every two years.
+		- Since 1996, 13 conferences have been held.
+	- WTO ensures that there are no trade barriers and has a international forum for handling trade disputes between member nations.
+	- It handles the global trade rules and makes sure that trade is done smoothly.
+	- Key Publications -
+		- WTO created annual reports that provide the complexities of Global Trade.
+		- World Trade Report has all the new policies, the changes and current trade trends. It provides insights for trading dynamics.
+	- Objectives - 
+		- Establishing trading under three separate agreements - 
+			- Trade-Related Aspects of Intellectual Property Rights (TRIPS)
+			- General Agreement on Trade in Services (GATS)
+			- Rules relating to international trade in goods.
+		- Acting as a global Apex forum -
+		- Resolution of Trade disputes - 
+		- Increasing transparency in decision making process - 
+		- Collaboration between international economic institutes -
+		- Safeguarding the trading interest of developed countries
+	- The 13th conference was held in Abu Dhabi, [[UAE]].
+		- The conference focused on trade reforms, disputing settlement issues and special provisions for developing countries.
+		- [[India]] advocated for food security policies, fisheries subsidies, and e-commerce regulations.
+- The Current Scenario - 
+	- The WTO has raised concerns over [[USA]]'s [[Reciprocal Tariffs]] on other nations. 
+		- It has been raised as a violation of WTO Trade Norms, and bound-rate commitments.
+		- The WTO has yet to accept the tariffs.
+	- The WTO has raised concerns over global trade risks, warning that global merchandise is expected to decline by 0.2% in 2025.
+	- North America is expected to have 12.6% decline in exports.
+- India's involvement in WTO - 
+	- India has been a advocate for developing nations in WTO.
+	- India has pushed for permanent solutions on agricultural subsidies.
+	- India is against having perfectionist trade regulations, and demands for more flexible regulations.
+	- The [[Directorate General of Foreign Trade|DGFT]] under the [[Ministry of Commerce and Industry]] is responsible for handling India's policies and conferences.
+- Conclusion -
+	- The WTO has been a important body for regulation international trade by creating rules of trade.
+	- WTO has helped integrate developing countries in global trade and markets.
+	- WTO has also been handling disputes to ensure no trade wars.
+	- WTO has not been able to keep up with political development, digital trade agreements and geopolitical tensions.
+		- It has a consensus based decision making and sometimes it almost paralysis to make a decision.
+	- Changes needed to tackle current challenges - 
+		- Reform the current dispute system
+		- 
+---

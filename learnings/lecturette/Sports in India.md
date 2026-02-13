@@ -1,0 +1,40 @@
+
+---
+- Introduction - 
+	- India has a long history of sports from Vedic Period
+	- Cricket the British origin game is the most popular sports in India.
+		- The most viewership is produced by cricket in India with [[IPL]]
+	- In earlier times sports was consider very important for every man, to be better at sports, hunting and other physical activities was considered as good.
+	- Sports has remained a very important activity in India, it has been a part of each Indian, whether it is playing gully cricket to IPL, sports are a part of each person in India.
+	- Games like snooker, chess and cards originate from India, some forms of karate, Judo and wrestling are from India.
+	- The national sport of [[India]] is hockey.
+	- India has been a center for sports for many competitions, like [[Asian Games]], [[Cricket World Cups]], and many others.
+	- India has many sports person which have impacted a lot to many games, the recent champion of Chess Pranand and Gukesh have represented India in the top grandmasters of Chess.
+		- Sachin Tendulkar is called the God of Cricket.
+		- Major Dhyan Chand, the legendary hockey player that refused a offer to join German sports team by Hitler iteself.
+		- Milkha Singh the flying Sikh.
+		- Are the people that have made India stand proud in sports, these are just some names but India is the hotspot for finding champions.
+	- India has participated in [[Olympic Games]] since 1990.
+		- In 2024 Summer Olympics, India made its 26th appearance.
+		- 110 sports person participated in 16 sports.
+		- PV Sindhu and Sharath Kamal were the flag-bearers for opening ceremony, while Manu Bhaker and P.R. Sreejesh carried the Indian flag in closing ceremony.
+		- India won 6 medals, one silver and 5 bronze.
+	- Infrastructure -
+		- [[Ministry of Youth Affairs and Sports]]
+			- India's budget for sports in almost 4000 crores, which has been increasing since 2019
+			- [[Ministry of Youth Affairs and Sports|MOYAS]] has introduced schemes like [[Khelo India]], [[Panchayat Yuva Krida Aur Khel Abhiyan]] for increasing sports to Indians life.
+		- The [[Sports Authority of India]] is the top authority for sports in India, that comes under the [[Ministry of Youth Affairs and Sports]] 
+			- Established in 1984.
+			- It is responsible for training and managing athletes of India.
+			- SAI controls the [[National Centers for Excellence]] and other regional centers.
+		- [[National Centers for Excellence]]
+			- These are the various centers along with regional centers that facilitate the training for athletes.
+		- The grass root training and sport institutes
+	- The problems -
+		- Finance 
+			- Although the budget keeps increasing for sports, the facilitation remains very hard, making it hard for athletes to train without facing financial strain.
+			- Many incidents are reported that atheletes have sold their medals for survival.
+		- Cricket Receives the limelight and other sports are not getting enough exposure.
+		- Parents in India are slowly letting their child pursue sports as a career, but still many families avoid sports for more academic goals.
+		- 
+---

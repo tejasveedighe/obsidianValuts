@@ -1,0 +1,20 @@
+
+---
+- Introduction
+	- CPEC - China Pakistan Economic Corridor
+	- CPEC comes under the China's BRI (Bridges and Road initiative) 
+	- CPEC are a massive number of projects that aims to connect China Xinjiang to Pakistan Gwadar Port on the Arabian Sea.
+	- The corridor spans more than 3000 kilometers and has a range of developments such as highways, roads, railways, bridges, energy projects and special economic zones.
+	- CPEC was launched in 2015 to improve connectivity of China to other asian countries. It was to improve the trade between China with middle eastern countries and also aid as a strategic access middle easter and African markets.
+	- For Pakistan CPEC was a huge benefit that would improve the infrastructure of Pakistan but also improve the relationship with China, also Pakistan would aid as the railway line under CPEC crosses from Pakistan Occupied Kashmir making India's claim over it difficult.
+		- CPEC would aid in making more jobs possible for People of Pakistan.
+		- CPEC also included creation of energy plants in Pakistan, the plant creates the cheapest electricity for citizens of Pakistan.
+	- The challenges that CPEC faced -
+		- CPEC faces the challenges of corruption from Pakistan officials making it difficult but also more costly to complete the project.
+		- The attacks from Baloch liberation army and other sort of attacks have lead to hold to the projects development.
+		- The regional geopolitical tensions have also made it difficult for China to continue the projects facing strong opposition from India.
+- Conclusion - 
+	- CPEC could be a game changer for the middle east making it easier to trade.
+	- CPEC would be a problem for India as the ties between Pakistan and China improve and the regular intervention in POK will cause India to oppose CPEC.
+	- CPEC could be a giant in improving the regional financial stability for Pakistan and improve the trading grounds for China, leading to growth in trade in the entire middle east and also from the African continent.
+---

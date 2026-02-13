@@ -1,0 +1,30 @@
+
+---
+- What is the Digital India Programme 2015?
+	- Launched on 1 July 2015. Marked its 10th year.
+	- The vision is to transform Indian into a Digitally empowered society and knowledge economy.
+	- Key focus - 
+		- Digital Infrastructure as Core Utility
+		- Governance and Services on Demand
+		- Digitally empowered citizens
+- What is the status quo?
+	- Under Digital India Programme there have been many developments. Some of them are - 
+		- UPI
+		- RuPay
+		- LokOS
+		- API Setu
+		- OpenForge
+		- Fast Tag
+		- Poshan Tracker 
+		- DigiLocker
+	- These developments and also the emergence of India as the largest internet consumer are the various changes that Digital India has brought.
+- What is the next step and its challenges?
+	- The digital space has been moved by AI. AI has become a got to for each person on the internet. Digital India needs to add AI to its vision. Digital India has to indulge in making AI safe and accessible to each user. To make it easier for the end user to access the services that the platform provides.
+		- The challenge is cyber-security. AI providers might track and control the AI as they wish and might endanger the privacy of the user's data.
+		- It can be fixed by creating a central body to govern the AI solution and creating policies for the data usage of the user.
+	- 6G
+		- The internet has been evolving and new technology is coming as fast as we can imagine. 6G is the next mission for digital India. 
+			- Challenges are the connectivity for rural areas.
+			- The infrastructure required to make internet available is already present but it needs to be improved as some areas are still dark from the internet. The locations that receive the least coverage has to be converted as connectivity zones, by creating network towers or making satellite communication.
+	- Upskilling
+---

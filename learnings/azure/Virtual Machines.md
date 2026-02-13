@@ -1,0 +1,44 @@
+
+---
+- These are IAS services.
+- There are some layers of a virtual machine.
+	- Virtual Layer - 
+		- Code 
+		- Bins/libs
+		- Guest OS
+	- Physical layer - 
+		- Hypervisor
+		- Host OS
+- Ways to reduce the costs of a virtual machine - 
+	- Auto-shutdown
+	- Reserved instances - 
+		- Upfront payment for a specified duration removing the recurring payments.
+	- Spot instances - 
+		- Some instances that are unsused resources.
+		- They are free resources that are left unused.
+		- They offer upto 90%
+	- Disk instances -
+		- Using optimal disk reduces the size.
+	- Check prices in some other regions.
+---
+- Availability concepts for VM - 
+	- The vms if they are more than one, then they are recommended to be spread across different regions, since the server machine that is hosting these VMs might reboot for maintenance. So different regions will ensure atleast one VM to be up.
+	- Deployment options
+	- Fault Domain
+		- Logical group of physical hardware that have the same power source and network switch. A rack of server.
+		- 
+	- Update Domain
+		- Logical group of physical hardware that have the same maintenance schedule. They do down together and can be rebooted together.
+		- So Vm must be in different Update domain so that they all dont go down together.
+	- Availability Set
+		- A collection of fault domains and update domains that VMs would be spread across.
+		- A set can contain 3 Fault Domain and upto 20 Update Domains.
+		- All domains (fault and domain) are in the same zone (datacenter).
+		- So creating a availability set is free and should be used to map our VMs in such a way that we can ensure that the entire system does not go down. Mapping them in different fault and update domains.
+			- Identical VMs in same Availability sets.
+	- Availability Zone
+		- Physically separate zone with Azure regions(datacenter).
+		- It's the building that contains the regions.
+		- Deploy identical VMs in different zones in the same region.
+			- Create a load balancer to route the requests to VMs.
+		- AZ is also free.

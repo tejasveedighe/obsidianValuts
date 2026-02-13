@@ -1,0 +1,17 @@
+
+---
+- Introduction - 
+	- ASEAN - Association for South East Asian Nations
+	- It has 10 members of south east Asia.
+	- It is a regional cooperation to improve the security and economic cooperation between its 10 members for mutual growth.
+	- ASEAN bloc constitutes the worlds 600million people and contributes to 6.5% of Global GDP that is around $10 trillion USD.
+	- Primary Objectives - 
+		- To promote regional economic growth, social progress and cultural development in the region.
+		- To promote regional peace and stability through respect for justice and rule of law in relation with member countries.
+		- To adhere to the principles of [[UN charter]]
+	- Motto - One vision, one identity, one community
+	- Headquarters - Jakarta, [[Indonesia]]
+	- The ASEAN members are very close to each other and are in a very important part of the [[South China Sea]] and [[Indian Ocean]]
+	- ASEAN also hold as observer states in [[UNGA]]
+	- 
+---

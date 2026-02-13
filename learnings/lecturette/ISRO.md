@@ -1,0 +1,25 @@
+
+---
+- Introduction -
+	- ISRO  - Indian Space Research Organization
+	- Established in 1969 in Bangalore, Karnataka.
+	- Comes under the Department of Space (DOS).
+	- It was envisioned by Dr. Vikram Sarabhai that space technology could be very helpful for India.
+	- Motto of ISRO - Manav Jati Ki Seva Mein Antariksa Pradyogiki
+	- The primary space port is Satish Dhawan Space Centre in Sriharikota (Andra pradesh).
+	- Applications of ISRO -
+		- Telecommunications -
+			- ISRO has the largest satellite constellations in space, aiding communications. Using it for land management, disaster rescue, tracking and radio broadcasting for disaster alerts.
+		- Resource Management -
+		- Military 
+- Achievements of ISRO -
+	- Aryabhatta 1975 - first Indian satellite.
+	- PSLV - Polar Satellite Launch Vehicle 
+	- GSLV - Geosynchronous Satellite Launch Vehicle
+	- Chandrayan 2 Mission 2019 - India's lunar exploration.
+	- Mangalyaan - Mars Exploration 
+	- Gaganyan
+- Global Cooperation of ISRO -
+	- ISRO works with NASA, ESA and Roscosmos for satellite launches and space exploration.
+	- ISRO has launched cost efficient launches.
+---

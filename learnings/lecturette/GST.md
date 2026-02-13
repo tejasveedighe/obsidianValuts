@@ -1,0 +1,23 @@
+
+---
+- Introduction -
+	- GST - Goods and Service Tax
+	- GST was introduced in Parliament during the time of PM Shri Atal Bihar Vajpayee.
+	- GST is a replacement of VAT.
+		- GST is collected from the point of consumption and not for the source.
+		- GST and VAT have the same taxation slabs. Divided into 0, 5, 12, and 18 %
+	- GST came into effect in 2017, via the implementation of 101 Constitution amendment Bill. 
+	- 1 july is celebrated as GST day.
+	- GST replaces the multiple taxes that were applied by the government and convert them into a single tax.
+	- GST has the following categories -
+		- CGST (Central GST) - Collected by central government
+		- SGST (State GST) - Collected by state government
+		- IGST (Integrated GST) - Collected during interstate transactions and imports
+	- Challenges that GST faces - 
+		- multiple tax slabs - 0, 5, 12, 18, 28 different tax slabs make it complex and goes against the idea of simple tax system.
+		- Frequent changes - It has been observed that GST has made frequent changes in rules and return formation making it confusing.
+- Conclusion - 
+	- GST is a good tax system that implemented has brought good results for tax compliance.
+	- GST has made the Ask for a Bill a right for the citizen, making the citizen more aware of the taxes and keeping the commercial party in check for not overchanging.
+	- GST has proved to be a good system for impelementing taxes, althought some changes in applicaiton of tax slabs and seperate taxing on gold and other sin items makes it a bit difficult for understanding.
+---

@@ -1,0 +1,19 @@
+
+---
+- Introduction
+	- DRDO - Defense Research and Development Organization
+	- Established in 1958, under the Ministry of Defense, by merging of Technical Development Establishment and Indian Army.
+	- It is headquartered in Delhi and works for empowering India with cutting edge defense technologies.
+	- DRDO aims to make India self-reliant in defense capabilities.
+	- DRDO develops weapons, and also equipment of different fields - 
+		- Missles.
+		- Aeronatics
+		- Armamaments
+		- Naval Systems
+		- Life sciences
+		- Combat vehicles
+		- Electronics and cyber systems
+	- Agni and Prithvi missiles under the Integrated Guided Missile Development Programme are the famous development of DRDO.
+	- During the COVID - 19 times, DRDO played a critical role by developing Sanitization systems, ventilators, and more healthcare systems.
+	- Despite facing challenges like delays and cost overruns, DRDO continues to be the fore front of India's Atma nirbhar bharat mission.
+---

@@ -1,0 +1,174 @@
+
+- --
+- Project Type -> ECommerce MVC App
+-  Project Details ->
+	-  Tech -> Asp.net Core MVC, HTML, CSS, JQuery, Ajax
+- Project Requirements ->
+	-  Models ->
+		- [x] User (Identity)
+			- [x] IsAdmin
+			- [x] IsBuyer
+			- [x] IsSeller
+		- [x] Products
+			- [x] ID
+			- [x] Title
+			- [x] Quantity
+			- [x] Description
+			- [x] ProductImage
+			- [x] CategoryID
+			- [x] SellerID
+			- [x] Price
+		- [x] Category
+			- [x] ID
+			- [x] Title
+			- [x] Description
+		- [x] Order
+			- [x] ID
+			- [x] BuyerID
+			- [x] TotalPrice
+			- [x] PaymentID
+			- [x] OrderStatus -> pending, dispatched, canceled, complete
+			- [x] Address
+			- [x] OrderDate
+			- [x] ShippingDate
+		- [x] OrderItems
+			- [x] ID
+			- [x] OrderId
+			- [x] ProductID
+			- [x] Quantity
+			- [x] PricePerUnit
+			- [x] Status
+		- [x] Payments 
+			- [x] ID
+			- [x] OrderID
+			- [x] Amount
+			- [x] Status
+			- [x] PaymentDate
+		- [x] Address
+			- [x] House Number
+			- [x] Street
+			- [x] City
+			- [x] Country
+			- [x] Postal Code
+		- [x] Product Review 
+			- [x] ID
+			- [x] ProductID
+			- [x] UserId
+			- [x] Rating
+			- [x] Comment
+			- [x] DateSubmitted
+	-  Roles ->
+		1. Admin -> 
+			- [x] View, Delete Products
+			- [x] CRUD Categories
+			- [x] View Orders
+			- [x] Add or Delete Buyer, Seller users
+			- [x] Update the status of order placed
+			- [x] View Payments
+		1. Seller ->
+			- [x] CRUD products of his own
+			- [x] View orders of his products
+			- [x] Update profile
+		2. Buyer ->
+			- [x] View Products
+				- [x] Paginated View
+				- [x] Product Review
+			- [x] Add, Remove, Edit items in cart
+			- [x] Order items
+			- [x] Pay for items
+			- [x] Update profile
+			- [x] View Orders
+				- [x] Cancel Orders
+	- [x] Views ->
+		- [x] Common to all - [ ] 
+			- [x] Login
+			- [x] Register 
+				- [x] As Seller 
+				- [x] As Buyer
+		- [x] Auth - [ ]
+			- [x] Admin
+				- [x] Products
+					- [x] View
+					- [x] Delete
+				- [x] Category CRUD Views
+				- [x] View Users
+					- [x] Sellers
+						- [x] Delete
+					- [x] Buyers
+						- [x] Delete
+				- [x] View Orders
+				- [x] View Payments
+				- [x] Add Users
+					- [x] Seller or Buyer
+						- [x] Add
+			- [x] Seller 
+				- [x] CRUD Product Views
+				- [x] View orders
+			- [x] Buyer 
+				- [x] List Products
+				- [x] View Product Details
+					- [x] Product Details
+					- [x] Reviews
+						- [x] Add
+						- [x] Update
+						- [x] Delete
+				- [x] Cart Items
+				- [x] Order details
+				- [x] Cart CRUD
+- --
+
+- 23-05-2024
+	- [x] Change the UI of Home BuyerView
+	- [x] Change the UI of Navbar
+	- [x] Change the UI of Login Page
+	- [x] Change the UI of Register Page
+- 24-05-2024
+	- [x] Change the UI of My Cart Page
+	- [x] Change the UI of Product Detail Page
+	- [x] Change the UI of Order Confirmed Page
+	- [x] Change the UI of Product Review Page
+	- [x] Change the UI of My Orders Page
+	- [ ] 
+- 27-05-2024
+	- [x] Change the UI of Order Index Page in Admin and Seller Roles
+	- [x] Change UI of Order Details Page in Admin and Seller Roles
+	- [x] Change UI of Order Edit Page in Admin and Seller Roles
+	- [x] Change UI of Order Cancel Page for Buyer
+	- [x] Change UI of Order Delete Page in Admin and Seller Roles
+	- [x] Change UI of My Orders page for Buyer
+	- [x] Change UI of Product Index page in Admin and Seller Roles
+	- [x] Change UI of Product Details Page in Admin and Seller Roles
+	- [x] Change UI of Category Pages in Admin and Seller Roles
+	- [x] Change UI of Payment Pages in Admin and Seller Roles
+	- [x] Change UI of Review Pages in Admin and Seller Roles
+- 28-05-2024
+	- [x] Create Dashboard 
+		- [x] UI
+		- [x] API
+	- [x] Change Products Create and Delete Page in Seller Role
+- 29-05-2024
+	- [x] Change the rupee symbol to $
+	- [x] Add Retry Payment Flow
+	- [x] Fix Edit Review View
+	- [x] Fix Delete Review View
+	- [x] Fix Delete Order Button CSS in Admin and Seller Roles
+	- [x] Fix Null payment in Admin and Seller Roles
+	- [x] Fix Product and Product Review Self-looping model problem
+	- [x] Fix BuyerView Filter Problem with Pagination
+	- [x] Validation at Add Product
+	- [ ] Update Order Status
+		- [ ] Soft Delete
+		- [x] Order Item Status 
+			- [x] Change Order From Seller Role
+			- [x] Cancel All Items From Buyer Role
+			- [x] Cancel Single Item From Buyer Role
+			- [x] Payment Amount Update
+			- [x] Email Update to Buyer When Seller Changes Status for any Order Item.
+		- [x] Remove Order Update From Admin Role
+	- [x] Quantity cannot be more than stock error message on cart page
+	- [x] Payments Visible to Seller fix
+	- [ ] Double Login click fail error
+	- [x] Update User Icon in Admin and Seller Roles Sidebar
+---
+- [[IIS Hosting with LocalDB]]
+---

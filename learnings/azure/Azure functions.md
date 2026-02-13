@@ -1,0 +1,17 @@
+
+---
+- These are server less functions that are triggered by the occurring of an event. 
+- They are event-driven functions that managed by the cloud and need no infrastructure handling done by the developer.
+- Triggers 
+	- The event that made the function run.
+	- Not mandatory.
+- Bindings 
+	- Declarative connection to other azure resources.
+	- Provided as parameter to the function.
+	- They can be input or output.
+	- Not mandatory.
+	- [https://learn.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings?tabs=isolated-process%2Cnode-v4%2Cpython-v2&pivots=programming-language-csharp#supported-bindings]
+- The azure functions are unallocated by azure when the resources are unused. The cold start causes the delay of 2-3 seconds when the next trigger happens.
+	- The cold start can be a problem for HTTP request triggers as they are synchronous in nature.
+	- The cold start can be avoided by selecting the correct hosting plan.
+---

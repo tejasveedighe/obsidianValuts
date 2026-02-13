@@ -1,0 +1,17 @@
+
+---
+- Introduction -
+	- The Marcos are the special forces under the [[Indian Navy]].
+	- In 1985 the idea was conceived for setting up naval special forces, the Marine Commando forces or MARCOS was raised in 1987.
+	- Some officers of [[Indian Navy]] were trained by British Special Forces and US Navy Seals. These officers lay the foundation of MARCOS.
+- History - 
+	- In 1987, when the MARCOS was raised it was assigned to fight against the [[Liberation Tigers of Tamil Eelam (LTTE)]].
+	- In 1990, MARCOS undertook many numerous operations such as 
+		- [[Operation Tasha]] in 1991
+		- [[Operation Zaburdust]] in 1992
+		- 1993, A somalia ship was smuggling arms, that was captured by MARCOS.
+		- 1999 [[Kargil War]] participation.
+		- Since 1995 the MARCOs was permanently deployed in [[Jammu and Kashmir]] to counter terrorism.
+	- MARCOs also worked with [[NSG]] in countering [[2008 Mumbai Attacks]], but their effectiveness was diluted by indecisions of bureaucrates.
+	- 
+---

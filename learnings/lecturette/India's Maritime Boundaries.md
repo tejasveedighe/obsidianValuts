@@ -1,0 +1,40 @@
+
+---
+- What is the India's Maritime Boundary?
+	- What is a maritime boundary?
+		- A maritime boundary is defined by the coastline and extend into surrounding seas.
+		- It is a imaginary line that is declared that defines a countries portion before the [[International waters]].
+		- It defines the jurisdiction of a nation of the area after the coastline.
+		- The boundary is recognized and maintained by the international law defined by [[United Nations Convention on the Law of the Sea (UNCLOS)]].
+	- India shares it maritime borders with the following countries - 
+		- [[Sri Lanka]]
+		- [[Thailand]]  
+		- [[Myanmar]]
+		- [[Indonesia]]
+		- [[Thailand]]
+		- [[Bangladesh]]
+	- India has 12 nautical miles of territorial Sea.
+	- India has a 7516km long coastline. Including the mainland and the islands.
+- What is the present status of India's maritime boundaries?
+	- Disputed Boundaries - 
+		- [[Pakistan]] -
+			- Sir Creek boundary has some conflict. It is near the [[Arabian Sea]], the dispute has been long but no progress has been made.
+		- [[Sri Lanka]] -
+			- In 2023 Sri lanka arrested 200 Indian fisherman for crossing the boundary and poaching. This shows the clarity of boundaries and has lead to protests.
+		- [[Myanmar]]-[[Bangladesh]]-[[India]] Trijunction -
+			- The trijunction between Adaman Sea has been a ongoing dispute between India and Bangladesh.
+- What can be done to change the present status?
+	- Using more latest system to calculate the maritime borders of India.
+		- Recently the MOEA has updated the calculation system to measure the maritime borders of India to World Geoditic System 1984, increasing the boundary to hundreds of meters.
+		- That means that we need to use more mordern methods and also technology to get better control of our boundaries.
+	- Resolution with neighboring countries 
+		- Resolving the disputes over the maritime boundaries is required for proper usage of natural resources.
+		- Treaties where both the countries can benefit from the area can be made to enhace relations and also to add more jobs.
+	- Joint partols - 
+		- India protects a major portion from Pakistan to Indonesia. The area is protected and monitored by Indian Navy.
+		- India can do joint partols in the area. That will be a defense exercise and also reduce the load on Indian Navy.
+- The conclusion - 
+	- India's maritime boundaries are important as the mainland borders. 
+	- The area that India controls is important for gathering resources and also to secure the mainland from maritime threats.
+	- India acts as a friendly figure to its neighbours, ensuring lesser problems for other nations.
+---

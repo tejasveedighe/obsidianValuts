@@ -1,0 +1,12 @@
+---
+tags:
+  - Library
+---
+---
+- Fluxor is a state management tool which a wrapper over the Redux state management.
+- It enables us to use the reaction when the state changes.
+- The components can share the same data without re-creating the state on each render.
+- The state is moved out of the component to the store, and the concepts of redux are used to update the state by replacing it.
+- Action, Dispatcher, Reducer, Store -> are used.
+- 
+---

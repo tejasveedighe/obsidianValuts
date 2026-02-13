@@ -1,0 +1,20 @@
+
+---
+- QUAD stands for Quadrilateral Security Dialogue
+- QUAD was initiated by Japan's PM Shinzo Abe back in 2007.
+- QUAD has 4 members - [[India]], [[USA]], Japan and Australia.
+- With the creation of QUAD a joint military operation was launched called Operation Malabar.
+- QUAD was created for tackling the increased presence and power of China in the region of Indo-Pacific. 
+- It aims to create a free, and secure Indo-Pacific region. Also it addresses issues like maritime security, infrastructure development, climate change and new technology.
+- Roles and Responsibilities - 
+	- Regional Security - QUAD aims to enhance the security of the eastern and south China Sea, overall improving the Indo-Pacific region
+	- Infrastructure and Development - 
+	- Climate Change - 
+	- Technological Cooperation - 
+- Recent Developments - 
+	- In 2024 the QUAD members have agreed to establish joint coast guard patrols and enhance the military logistics to ensure regional stability.
+	- The QUAD has expanded their scope of members with Quad + adding countries like South Korea, New Zealand and Vietnam.
+- India's Role - 
+	- India has a pivotal role in Quad leveraging its geographical advantage to coordinate maritime security in Indo-Pacific.
+	- For India Quad is another group that helps India keep China at bay, as leading China's influence and military power in the Indo-Pacific can lead to trading and military disputes. Quad helps India keep the balance and maintain the peace with its neighbor. All the while improving the relations with other nations.
+---

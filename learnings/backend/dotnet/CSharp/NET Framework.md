@@ -1,0 +1,17 @@
+---
+tags:
+  - Backend
+---
+---
+- The .Net Framework is the implementation of .NET running websites, services and console app on windows, linux and macos.
+- Architecture of NET Framework
+	- CLR - common language runtime
+	- Class Library - provides a set of APIs and types of common functionality.
+- How to code is compiled?
+	- The code is compiled by c# compiler
+	- After the error check both compiler and runtime the code is converted to CIL (common intermediate language) or intermediate language or MSIL. This code is the platform  independent code.
+	- The CIL code is sent to the Virtual Machine Component of .NET framework i.e the CLR.
+	- The CLR converts the code to machine understandable code or instructions.
+	- The Process of converting and execution of CIL is called Just In Time Compilation or Dynamic Compilation.
+	- The C# code are compiled and physically packaged into assemblies (exe or dll).
+---

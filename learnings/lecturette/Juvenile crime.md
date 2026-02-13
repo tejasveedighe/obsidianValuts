@@ -1,0 +1,25 @@
+
+---
+- What is Juvenile Crime?
+	- The term juvenile is used for representing the age of less than the age of majority. For India the age is 18.
+	- So the person who commits a crime and is still under the age of 18 is called Juvenile criminal.
+	- Under the Juvenile Justice Act 2022, the act offers protection and care for minors and also ensures that they are reintegrated back to the society.
+	- The JJ Act also differentiates between a minor crime and major crime. Cases of Rape, Murder and other acts of violence could make the crime a major crime in that case the JJ Act does not offer any care for the apprehended.
+- What is the status quo?
+	- The NCRB recorded 35000 juvi cases in 2022. That is a 30% drop from 45000 in 2013.
+	- Although overall cases are dropping, the heinous cases like rape, murder and assault are increasing and take upto major portion of the total crimes.
+	- States like MP, Delhi and Maharashtra have reported the most number of Juvi cases.
+	- The major portion of the crimes are done by boys upto 90% but the girl portion is also on a incline.
+	- The JJ Act ensure that these cases are handled by creating Juvenile Justice Boards and Child Welfare Committees that observe the child under special homes instead of jail.
+		- The child is rehabilitated with behaviour correction courses and are ensured that they are counselled properly.
+	- The current status of crimes committed by minors are studied to be cases of economic disparities and urbanization fuel.
+- What can be done to change the status quo?
+	- Schools can integrated anti-delinquency programs that ensure that the child gets the correct knowledge of what is right and wrong.
+	- Community support groups can be established to ensure that no child is getting manipulated or influenced into doing anything of such manner. Community plays a large role in upbringing and can also act as a early intercept.
+	- Police training for handling juvenile cases better. The police could make the situation worse by placing the minor with actual criminals. Having different handling area and more careful situation handling could reduce the chances of making the minor more prone to crime.
+	- Increasing the funding for policies like Integrated Child Protection Scheme.
+	- Making cyber influence more difficult by blocking such content on social media and blocking websites for child. This is a role for both parents and social platforms.
+- What are the challenges in implementing the solutions?
+	- The issues are not just based on external circumstances often the cases are more internal conflict for the child that get unresolved during the upbringing.
+	- The Indian society has been a hard for certain people as they are asked to deal with the problem on their own.
+---

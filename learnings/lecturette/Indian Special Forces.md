@@ -1,0 +1,11 @@
+
+---
+- There are many special forces of Indian armed forces. Each organization of [[India]] has their separate special forces.
+	- [[Para SF]] of [[Indian Army]]
+	- [[Marcos]] of [[Indian Navy]]
+	- [[Garud Commandos]] of [[Indian Air Force]]
+- There are also special forces outside of the tri defense forces that are maintained by civil organizations, such as
+	- [[NSG]] Commandos of [[Ministry of Home Affairs]]
+	- [[Special Group]] under [[RAW]]
+	- [[Special Frontier Group]] under [[RAW]]
+	- [[Cobra Commandos]] of [[CRPF]]

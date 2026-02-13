@@ -1,0 +1,19 @@
+
+---
+- Runtime binding is done at runtime. The behavior is decided at runtime by the CLR when the method is called.
+- The function call is bounded to the class at the time of compilation, but it might be called from external class at run-time then it will be runtime binding.
+- The parent and child might have the same method signature, so at runtime the method is decided.
+- Runtime binding is achieved using Method Overriding - 
+	- Method Overriding is the reimplementation of parent class non-static, non-private, and non-sealed method in the subclass with the same signature.
+	- For the child class to override the method the parent class must implement the method using `virtual` keyword.
+	- `virtual` keyword provides subclass the permission to override the default implementation and use its own custom logic.
+	- `virtual` gives the option to override the method, it is not required to override it. `abstract` method has to be implemented again.
+	- `override` keyword is used in the base class to override the `viratual` method defined in the parent class.
+- The runtime binding happens as so - 
+	- `virtual` method is `overriden` in the child class.
+	- The main execution of dynamic binding happens when the parent reference is used to store the allocation of child class.
+		- The parent classes method will be called that is not been overridden.
+		- The child classes overridden method will be called when the same method is called, as the memory is of the child.
+- The dynamic binding is done by [[Method Overriding]]
+- Alternative way to implement the method of parent class in child class is [[Method Hiding(Shadowing)]]
+---

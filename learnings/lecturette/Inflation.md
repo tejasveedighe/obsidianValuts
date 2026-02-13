@@ -1,0 +1,32 @@
+
+---
+- Introduction - 
+	- Inflation is a rate at which the price for goods and services increases, leading to reduction in purchasing power.
+	- It means that over time the money spent will not have the same returns that it does right now.
+	- Inflation happens when 
+		- the demand of goods and services increases
+		- then production cost increases.
+		- or the demand is more than the production rate.
+	- In India the inflation is calculated by-  Wholesale price index (WPI)
+		- WPI tracks the prices of the change of prices of basket of goods and services over time.
+		- A rise in WPI index means inflation and price hike, meaning that the value of money is decreasing.
+	- Effects of Inflation -
+		- Decreases purchasing power of people. 
+			- Prices increase, each unit of currency buys fewer goods and services.
+		- Impact on Savings - 
+			- The money saved gets its value reduced, as the cost of goods and services have increase, more money is required, making the value lower.
+		- Borrowers benefit - The value of money decreases, so the money payment becomes cheaper.
+		- Lender's lose - The lenders, get the repayment of the money with decreased valuation. Costing them the margin that inflation has brought.
+		- Jobs - 
+			- As inflation increases, more job are produced.
+			- A moderate level of inflation is a signature of improving economy.
+- Types of inflation - 
+	- Demand-pull inflation - 
+		- Basically more demand for good and services
+	- Cost-push inflation - 
+		- Cost of production increases.
+		- More wages or price of goods increase
+	- Built-in inflation -
+		- Results of higher wage, leading to higher production cost, which leads to higher wages and so on.
+- 
+---

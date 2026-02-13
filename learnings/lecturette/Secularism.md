@@ -1,0 +1,16 @@
+
+---
+- What is secularism?
+	- Secularism is a principle.
+	- It separates the state from religious affairs and vice versa.
+	- The state does not interfere in religious affairs, and religion does not interfere in the state.
+	- State means - political and governmental affairs.
+	- It promotes people to have free beliefs no matter the current political or governmental situation.
+	- Key points - 
+		- The state does not bias on the basis of religion.
+		- People are free to have any set of religious beliefs.
+		- The people are treated equally irrespective of their religious beliefs.
+	- Constitution -
+		- In constitution of India the word secular was adopted in 1976, under [[Indira Gandhi]]'s leadership. It was added to the preamble.
+		- Articel 14-28 -> Fundamental Rights
+---
