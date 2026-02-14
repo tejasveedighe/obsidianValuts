@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d36ba411a705cd60",
+        "id": "6dd8a3143f185e6c",
         "type": "tabs",
         "children": [
           {
-            "id": "8c9743a646ee91e1",
+            "id": "80db610d0dc13098",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "learnings/linux/arch/Fish shell.md",
+                "bFile": "learnings/linux/arch/Fish shell.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Fish shell  (Working Tree)"
             }
           }
         ]
@@ -146,17 +150,27 @@
               "icon": "lucide-list",
               "title": "Outline of 02-02-2026"
             }
+          },
+          {
+            "id": "3c687b8d27fecaa7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "notion-like-tables:Create loom": false,
       "bases:Create new base": false,
       "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
@@ -165,11 +179,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "notion-like-tables:Create loom": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c9743a646ee91e1",
+  "active": "80db610d0dc13098",
   "lastOpenFiles": [
+    "todo.md",
+    "Untitled 1.loom",
     "CodingContest/leetcode/176.md",
     "Inbox/Inbox.md",
     "learnings/lecturette/Para SF.md",
@@ -199,14 +215,11 @@
     "learnings",
     "personal/Who am i..md",
     "learnings/Projects/Evoting System.canvas",
-    "learnings/linux/arch/Pacman.md",
-    "learnings/linux/arch/Man-db.md",
     "learnings/linux/arch",
     "learnings/linux",
     "Inbox",
     "learnings/dsa/algorithms",
     "learnings/dsa",
-    "learnings/azure",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

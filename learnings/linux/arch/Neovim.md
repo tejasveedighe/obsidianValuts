@@ -1,3 +1,8 @@
+---
+id: Neovim
+aliases: []
+tags: []
+---
 #### NVim commands - 
 
 1. Copy to clipboard - `"+y`
@@ -161,3 +166,18 @@ A brief history:
             - Installed in `nvim/site/pack/plugins/git-plugins/start` that did not register it to the nvim so moved it to the plugins folder as where all are installed.           
 
 11. Using no package manager is kind of getting very messy and most plugins recommend using one to install their app, and so i have installed lazyvim again. Defeating the entire purpose of removing it. But it taking too much damn time and i want create not configure.
+
+12. Installed a new plugin using lazy, just created a new file in plugins folder of the nvim config directory and then added the obisidian cofig. Lazy auto recognizes the changes and installs it.
+
+15-02-2026
+
+13. Updating the config to get transparent background and getting the theme back to `onedark`
+  - Added a new file to plugins folder. Called colorscheme and added the return config from onedark github.
+  - Lazy auto set it.
+
+14. LSP Config for C programming:
+  - Required to install compiler for C and C++
+    - Installed `clang` for arch.
+    - Update the `makepkg.conf` file with `export CC=clang export CXX=clang++`
+  - using `LazyExtras` to install clangd was already provided by lazy so all done.
+  - Create a laspconfig file in cofigs for adding the proper config for clangd.
