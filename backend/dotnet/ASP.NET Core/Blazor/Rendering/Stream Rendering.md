@@ -1,2 +1,0 @@
-- Stream Rendering is used with [[SSR]] & [[Prerendering]] of a component. 
-- Stream Rendering allows for the component to re-render to stream the updates to UI.

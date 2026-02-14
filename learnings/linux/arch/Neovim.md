@@ -64,6 +64,100 @@ A brief history:
     - How do i use the pre-installed `netrw` for directory exploration?
         - To open a directory just run `nvim .` and the explorer will show all the files.
         - To open it while editing a file use `:Ex` and all set.
+    - The problem with `netrw`:
+        1. Cannot search recursive. I was not able to find how to set the recursive search for files. The command seems weird to execute and no clear one was found. Will try later tomorrow.
 
-7. Now `Telescope`. Or a simpler version of it.
+7. Updating the config to have the line number config on.
+    - I added the following code, that was suggested by GPT:
+    ```lua
+        vim.opt.number = true --set number
+        vim.opt.relativenumber = true --set relativenumber
+    ```
+    - Also i learnt that `vim` config file path is stored as variable: `$MYVIMRC`. So we can next time directy run `nvim $MYVIMRC` for editing the `init.lua` file.
+        - I added some variables in the config file for `fish` so that I can access the config of fish and my notes folder using the variable.
+            - I added this to the config of fish - `set -g MYFISHCONFIGFILE "path"`
 
+14-02-2026
+
+7. Installing `Telescope` since the `netrw` will require to manually set the searching for the document. Instead of doing that I want to install the plugin and do the stuff i want to do instead of con figuring the file.
+    - Cloning [telescope-repo](git@github.com:nvim-telescope/telescope.nvim.git) into our `~/.local/share/nvim/site/pack/plugins/start` directory.
+    - Telescope requires the following:" }
+        1. [plenary](git@github.com:nvim-lua/plenary.nvim.git)
+        2. [repgrep](git@github.com:BurntSushi/ripgrep.git)
+        3. [telescope-native-fzf](git@github.com:nvim-telescope/telescope-fzf-native.nvim.git)
+        4. [fd](git@github.com:sharkdp/fd.git) - installed via `pacman`
+    - Now the Telescope can be accessed using `:Telescope`.
+    - The problem now is that is showing some entries that are not of the current directory. So time for checking if there is a missing configuration from my side.
+        - The problem was I was using the `:Telescope` command instead of `:Telescope find_files`. The former opens the meta picker that its own files instead of the currnet directory files. The later is used for searching inside the current directory.
+    - Binding the Telescope find_files command with a keyboard shortcut:
+        - I want to use the find_files without having to type the entire thing and as a shortcut i added the following command to the nvim config:
+            - `vim.keymap.set("n", "<leader>ff", "<cmd>Telescope find_files<cr>", { desc = "Project files" } end)`
+                - This added a keymap for nvim to execute the `:Telescope find_files` command when the keys are pressed in normal mode (n).
+                - The leader is the leader key is a special key used for creating custom user defined keymaps.
+                - To set the leader key i added this to the config: `vim.g.mapleader = " "` and `vim.g.maplocalleader = "\\"`. Now the leader key is space key.
+
+8. Now we install a directory explorer:
+    - Installing [nvim-tree](git@github.com:nvim-tree/nvim-tree.lua.git)
+    - Adding the following to nvim config:
+        ```lua
+            -- Disable loading netrw
+            vim.g.loaded_netrw = 1
+            vim.g.loaded_netrwPlugin = 1
+
+            -- To require the nvim-tree
+            vim.opt.termguicolors = true
+            require("nvim-tree").setup({})
+
+            -- To map to the shortcut of space + e to toggle it
+            vim.keymap.set("n", "<leader>e", "<cmd>NvimTreeToggle<cr>")
+
+        ```
+    - Configuring nvim-tree to auto focus the file that is opened or active in another buffer.
+        ```lua
+        -- To open nvim tree when vim starts
+        vim.api.nvim_create_autocmd("VimEnter", {
+                callback = function()
+                require("nvim-tree.api").tree.open()
+                end,
+                })
+
+        -- optionally enable 24-bit colour
+        vim.opt.termguicolors = true
+        require("nvim-tree").setup({
+            update_focused_file = {
+            enable = true,
+            update_root = false,
+            },
+        })
+
+        ```
+    - Now files active are focused in nvim-tree.
+
+9. Now to install plugins for development
+    - Require to work on the following frameworks and languages
+        - Languages - 
+            1. CPP
+            2. C
+            3. C#
+            4. Javascript
+        - Frameworks - 
+            1. dotnet
+            2. React.JS
+            3. Angular.JS
+        - Tools required -
+            1. Debuggers
+            2. Linters
+            3. Intellisense
+            4. Github Copilot
+            5. Obisidian plugin for nvim
+    - The main componenet for programming is the syntax understanding by the editor. 
+        - The NVIM comes with a LSP (Language Server Protocol) for understanding the syntax.
+
+10. LSP of nvim:
+    - LSP is of two types client and server, the client LSP comes wiht nvim, but the server one is required to be a third party. So we will have to install a LSP server and cofig it for our requirements.
+    - Lets start with LSP For C#:
+        - [omnisharp](git@github.com:OmniSharp/omnisharp-vim.git)
+        - [ale](git@github.com:dense-analysis/ale.git) - for linting
+            - Installed in `nvim/site/pack/plugins/git-plugins/start` that did not register it to the nvim so moved it to the plugins folder as where all are installed.           
+
+11. Using no package manager is kind of getting very messy and most plugins recommend using one to install their app, and so i have installed lazyvim again. Defeating the entire purpose of removing it. But it taking too much damn time and i want create not configure.
